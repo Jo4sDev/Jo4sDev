@@ -7,11 +7,11 @@
 ### My Tech Stack
 
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
-![JavaFX](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+![JavaFX](http://img.shields.io/badge/-JavaFX-007396?style=flat-square&logo=javafx&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Spring-007396?style=flat-square&logo=spring&logoColor=ffffff)
-![Maven](http://img.shields.io/badge/-Maven-1565c0?style=flat-square&logo=apache-maven)
+![Maven](http://img.shields.io/badge/-Maven-007396?style=flat-square&logo=apache-maven)
 ![Static Badge](https://img.shields.io/badge/Gradle-007396?style=flat-square&logo=gradle&logoColor=ffffff)
-![Static Badge](https://img.shields.io/badge/Podman-007396?style=flat-square&logo=podman&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/Podman-black?style=flat-square&logo=podman&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
 #### Frontend
