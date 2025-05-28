@@ -1,6 +1,6 @@
 ## Hi I'm Jhonatan A. (Joas Dev) 🐧
 
-![JoasDev](https://github.com/Jo4sDev/Jo4sDev/blob/master/github_cover.png "JoasDev")
+![JoasDev](https://github.com/Jo4sDev/Jo4sDev/blob/main/github_cover.png "JoasDev")
 
 :computer: _Software Engenieer at [JoasDev](https://github.com/Jo4sDev)_ :desert_island:Living in Lima :peru:
 
